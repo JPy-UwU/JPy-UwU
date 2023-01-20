@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JP-1016
+- 👋 Hi, I’m Jay Patel
 - 👀 I’m interested in AI and ML, although I am stil new to the topic
 - 🌱 I’m currently learning Python, Java, JavaScript and C
 - 🥨 Also exploring the Assembly Language and Computer Architecture
