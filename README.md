@@ -43,14 +43,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JPy-UwU/JPy-UwU/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/JPy-UwU/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JPy-UwU/JPy-UwU/output/snake.svg" alt="Snake animation" />
 
 ###
