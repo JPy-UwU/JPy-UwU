@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JPy-UwU/JPy-UwU/output/snake.svg" alt="Snake animation" />
-
-###
